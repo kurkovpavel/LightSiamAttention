@@ -3,4 +3,5 @@ This LightSiamAttention visual tracker is based on siamse family visual trackers
 Model traing during 15 epoch on got10k dataset.
 
 Run with usb camera: python demo.py
+
 Train: change path to your got10k dataset: python trainCustom.py
